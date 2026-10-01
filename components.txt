@@ -1,0 +1,24 @@
+IoT-Enabled Plant Growth and Environment Monitoring System
+
+Required for the starter sketch:
+- ESP32 development board
+- Analog soil moisture sensor
+- DHT22 temperature and humidity sensor
+- Rain sensor module with analog output
+- Relay module compatible with ESP32 logic
+- Water pump
+- External pump power supply suitable for the pump
+- Breadboard and jumper wires
+- USB data cable
+
+Optional:
+- PIR motion sensor
+- 16x2 LCD with I2C backpack
+- Enclosure and mounting materials
+
+Software:
+- Arduino IDE
+- ESP32 board package
+- DHT sensor library by Adafruit
+- Adafruit Unified Sensor (if required)
+- Compatible LiquidCrystal_I2C library
